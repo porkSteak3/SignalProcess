@@ -45,4 +45,4 @@
 
 ## MU　MIMO Simulation
 
-[MU-MIMO](./11_MU MIMO.ipynb)
+[MU-MIMO](./11_MU_MIMO.ipynb)
